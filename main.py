@@ -1,7 +1,7 @@
 from textblob import TextBlob
 
 text = '''
-One firefighter is missing and another critically injured after a landslide took place at Auckland's west coast beach settlement Muriwai. 
+Derive insights from your images in the cloud or at the edge, or use pre-trained Vision API models to detect emotion, understand text, and more.
 '''
 
 blob = TextBlob(text)
