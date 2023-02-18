@@ -1,8 +1,14 @@
 from textblob import TextBlob
 
 text = '''
-Derive insights from your images in the cloud or at the edge, or use pre-trained Vision API models to detect emotion, understand text, and more.
-'''
+nside
+You've got
+Your light
+To guide
+Your fate
+Decides
+The world you're going
+To find'''
 
 blob = TextBlob(text)
 blob.tags           # [('The', 'DT'), ('titular', 'JJ'),
