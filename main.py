@@ -1,14 +1,12 @@
 from textblob import TextBlob
 
 text = '''
-nside
-You've got
-Your light
-To guide
-Your fate
-Decides
-The world you're going
-To find'''
+I'm just lying in a bar with my drip feed on
+Talking to my girlfriend waiting for something to happen
+And I wish it was the sixties
+I wish I could be happy
+I wish, I wish
+I wish that something would happen'''
 
 blob = TextBlob(text)
 blob.tags           # [('The', 'DT'), ('titular', 'JJ'),
