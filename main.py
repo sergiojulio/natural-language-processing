@@ -1,12 +1,11 @@
 from textblob import TextBlob
 
 text = '''
-I'm just lying in a bar with my drip feed on
-Talking to my girlfriend waiting for something to happen
-And I wish it was the sixties
-I wish I could be happy
-I wish, I wish
-I wish that something would happen'''
+I wanna live and breathe
+I wanna be part of the human race
+I wanna live and breathe
+I wanna be part of the human race, race, race, race
+'''
 
 blob = TextBlob(text)
 blob.tags           # [('The', 'DT'), ('titular', 'JJ'),
