@@ -1,10 +1,12 @@
 from textblob import TextBlob
 
 text = '''
-I wanna live and breathe
-I wanna be part of the human race
-I wanna live and breathe
-I wanna be part of the human race, race, race, race
+Your last chance has arrived
+Best, you've got to be the best
+You've got to be the best
+You've got to change the world
+And use this chance to be heard
+Your time is now (Your time is now)
 '''
 
 blob = TextBlob(text)
