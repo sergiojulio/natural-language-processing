@@ -1,12 +1,7 @@
 from textblob import TextBlob
 
 text = '''
-Your last chance has arrived
-Best, you've got to be the best
-You've got to be the best
-You've got to change the world
-And use this chance to be heard
-Your time is now (Your time is now)
+Stay positive and keep shining bright!
 '''
 
 blob = TextBlob(text)
