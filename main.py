@@ -1,7 +1,7 @@
 from textblob import TextBlob
 
 text = '''
-Stay positive and keep shining bright!
+Train your mind to see the good in every situation.
 '''
 
 blob = TextBlob(text)
