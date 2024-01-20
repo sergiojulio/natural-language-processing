@@ -16,3 +16,5 @@ for sentence in blob.sentences:
     print(sentence.sentiment.polarity)
 # 0.060
 # -0.341
+
+print(blob.detect_language())
